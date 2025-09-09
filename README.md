@@ -1,5 +1,14 @@
 # 🚀 The Practical AI Learning Roadmap: From Curious Beginner to Confident Builder
 
+<img 
+  width="1536" 
+  height="1024" 
+  alt="The Practical AI Learning Roadmap 2025 - Complete guide from beginner to AI builder covering machine learning, deep learning, and hands-on AI project development" 
+  title="Practical AI Learning Roadmap: From Curious Beginner to Confident Builder"
+  src="https://github.com/user-attachments/assets/a7459711-a18c-4523-af27-7ad4180aa0d4"
+  loading="lazy"
+/>
+
 Welcome to my AI Learning Roadmap! I created this based on my own journey—building projects, getting stuck, learning from mistakes, and sharing what’s actually useful. This started as something for my personal use, but it’s grown into a resource for anyone hungry to break into AI, whether you’re a student, a mid-career dev, a maker, or just curious about artificial intelligence.
 
 ---
